@@ -17,6 +17,8 @@
     <modules>
         <module>hello-annotation</module>
         <module>hello-geeks</module>
+        <module>hello-thread</module>
+        <module>hello-stream</module>
     </modules>
 
     <dependencyManagement>
